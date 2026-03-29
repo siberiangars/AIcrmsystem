@@ -1,0 +1,8 @@
+
+> crm-system@0.1.0 start
+> next start -p 8080
+
+▲ Next.js 16.2.1
+- Local:         http://localhost:8080
+- Network:       http://192.168.0.105:8080
+✓ Ready in 254ms
