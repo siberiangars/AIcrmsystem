@@ -1,0 +1,6 @@
+
+> crm-system@0.1.0 dev
+> next dev -p 3001 --no-turbopack
+
+error: unknown option '--no-turbopack'
+(Did you mean --turbopack?)
